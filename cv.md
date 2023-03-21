@@ -89,3 +89,9 @@ E: [mun9je@gmail.com](mun9je@gmail.com)
 - CSS3
 - JAVASCRIPT (basic)
 - REACT (basic)
+
+### LANGUAGES
+
+- Ukrainian Native speaker
+- English A2
+- Russian C1
