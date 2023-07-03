@@ -20,6 +20,7 @@ margin: 0 auto;
 background-color: #FFFFFF;
 box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 padding: 105px 90px;
+padding-bottom: 0px;
 }
 
 
@@ -298,11 +299,13 @@ padding: 105px 90px;
     
     .code-example {
         line-height: 10px;
+        padding-bottom: 40px;
       }
       
     .code-example code {
         position: relative;
         left: -200px;
+        
       }
       
       .divider_black {
@@ -311,3 +314,35 @@ padding: 105px 90px;
         background-color: #2d2d2d;
         margin: 20px 0px;
       }
+
+      .logo-rs {
+        width: 80px;
+        height: 35px;
+      }
+      
+      .logo-git {
+        width: 35px;
+        height: 35px;
+      }
+
+    footer {
+    display: flex;
+    width: 1309px;
+    margin-left: 236px;
+    background-color: #1E2939;
+    justify-content: center;
+      }
+
+      .logo-foot {
+        margin-top: 10px;
+        margin-left: 50px;
+      }
+
+      .footer-title{
+        color: #FFFFFF;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 27px;
+        margin-bottom: 10px;
+        }
