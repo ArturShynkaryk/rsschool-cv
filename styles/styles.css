@@ -296,3 +296,18 @@ padding: 105px 90px;
             line-height: 24px;
     }
     
+    .code-example {
+        line-height: 10px;
+      }
+      
+    .code-example code {
+        position: relative;
+        left: -200px;
+      }
+      
+      .divider_black {
+        display: block;
+        height: 2px;
+        background-color: #2d2d2d;
+        margin: 20px 0px;
+      }
